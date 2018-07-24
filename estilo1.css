@@ -1,0 +1,41 @@
+.menu-superior {
+	position: absolute;
+	top: 0px;
+	width: 99%;
+}
+
+.menu-superior p {
+	position: : absolute;
+	text-indent: 180px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.arriba-izquierda {
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	height: 90px;
+}
+
+.menu-inferior {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background-color: gray;
+	border-top: 5px double black;
+}
+
+.menu-inferior p {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 16;
+	font-weight: bold;
+}
+
+.social-network {
+	margin-top: 10px;
+	height: 30px;
+	margin-left: 50%;
+}
